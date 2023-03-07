@@ -49,7 +49,7 @@ svg.append("text")
     .attr("dy", "1")
     .attr("transform", "rotate(-90)")
     .text("Total Emissions (Kg CO2 - equivalents per kg product)")
-	.style("font-size", "15px");
+	.style("font-size", "18px");
 
 svg.append("text")
     .attr("class", "x label")
